@@ -93,7 +93,7 @@ Notifications
 
 ## Technical Assets
 
-Components from the App Autoscaler, CAPI, CLI, Java Tools, MultiApps, Notifications, and Stratos projects.
+Components from the App Autoscaler, CAPI, CLI, Java Tools, MultiApps, and Notifications projects.
 
 Autoscaler
 - https://github.com/cloudfoundry/app-autoscaler-release
