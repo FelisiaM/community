@@ -170,6 +170,7 @@ Components from the Diego, Garden, HAproxy, Logging and Metrics, Networking, Win
 * https://github.com/cloudfoundry/metrics-discovery-release
 * https://github.com/cloudfoundry/statsd-injector-release
 * https://github.com/cloudfoundry/system-metrics-scraper-release
+* https://github.com/cloudfoundry/metric-store-release
 
 ### Networking
 * https://github.com/cloudfoundry/routing-release
